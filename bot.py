@@ -1,3 +1,6 @@
+import discord
+
+
 def main():
 	print("Hello world !")
 
