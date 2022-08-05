@@ -9,7 +9,6 @@ Thumbs.db
 # IDE's files
 .eslintrc.json
 
-
 # Node js
 node_modules/
 logs
